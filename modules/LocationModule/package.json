@@ -1,5 +1,5 @@
 {
-    "name": "@your-org/react-native-location",
+    "name": "@emilioborjas/react-native-location",
     "version": "0.0.1",
     "description": "Location service TurboModule for React Native",
     "author": "your-username",
@@ -18,14 +18,14 @@
         "package.json"
     ],
     "license": "MIT",
-    "homepage": "[https://github.com/your-org/super-app-showcase-sdk](https://github.com/your-org/super-app-showcase-sdk)",
+    "homepage": "https://github.com/emilioborjas/super-app-showcase-sdk",
     "repository": {
         "type": "git",
-        "url": "git+[https://github.com/your-org/super-app-showcase-sdk.git](https://github.com/your-org/super-app-showcase-sdk.git)",
+        "url": "git+https://github.com/emilioborjas/super-app-showcase-sdk.git",
         "directory": "modules/LocationModule"
     },
     "publishConfig": {
-        "registry": "[https://npm.pkg.github.com/](https://npm.pkg.github.com/)"
+        "registry": "https://npm.pkg.github.com/"
     },
     "codegenConfig": {
         "name": "LocationModuleSpec",
