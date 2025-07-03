@@ -14,8 +14,8 @@ const addSdkCapabilities = (dependencies, devDependencies) => {
     const profile = {
         ...dependencies,
         ...devDependencies,
-        "@your-org/super-app-showcase-sdk": {
-            name: "@your-org/super-app-showcase-sdk",
+        "@emilioborjas/super-app-showcase-sdk": {
+            name: "@emilioborjas/super-app-showcase-sdk",
             version: sdkPackageJson.version,
             devOnly: true,
         },
