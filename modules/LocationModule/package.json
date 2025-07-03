@@ -1,0 +1,40 @@
+{
+    "name": "@your-org/react-native-location",
+    "version": "0.0.1",
+    "description": "Location service TurboModule for React Native",
+    "author": "your-username",
+    "main": "src/index.tsx",
+    "types": "src/index.tsx",
+    "scripts": {
+        "bump": "node ../../scripts/release.js bump",
+        "publishPackage": "node ../../scripts/release.js publish"
+    },
+    "files": [
+        "src",
+        "android",
+        "ios",
+        "cpp",
+        "LocationModule.podspec",
+        "package.json"
+    ],
+    "license": "MIT",
+    "homepage": "[https://github.com/your-org/super-app-showcase-sdk](https://github.com/your-org/super-app-showcase-sdk)",
+    "repository": {
+        "type": "git",
+        "url": "git+[https://github.com/your-org/super-app-showcase-sdk.git](https://github.com/your-org/super-app-showcase-sdk.git)",
+        "directory": "modules/LocationModule"
+    },
+    "publishConfig": {
+        "registry": "[https://npm.pkg.github.com/](https://npm.pkg.github.com/)"
+    },
+    "codegenConfig": {
+        "name": "LocationModuleSpec",
+        "type": "modules",
+        "jsSrcsDir": "src"
+    },
+    "create-react-native-library": {
+        "type": "turbo-module",
+        "languages": "kotlin-objc",
+        "version": "0.50.2"
+    }
+}

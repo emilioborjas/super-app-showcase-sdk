@@ -1,0 +1,31 @@
+{
+    "react": {
+        "name": "react",
+        "version": "19.0.0"
+    },
+    "react-native": {
+        "name": "react-native",
+        "version": "0.78.2"
+    },
+    "@react-navigation/native": {
+        "name": "@react-navigation/native",
+        "version": "7.0.14"
+    },
+    "@react-navigation/native-stack": {
+        "name": "@react-navigation/native-stack",
+        "version": "7.2.0"
+    },
+    "react-native-safe-area-context": {
+        "name": "react-native-safe-area-context",
+        "version": "5.3.0"
+    },
+    "react-native-screens": {
+        "name": "react-native-screens",
+        "version": "4.10.0"
+    },
+    "@module-federation/enhanced": {
+        "name": "@module-federation/enhanced",
+        "version": "0.11.3",
+        "shared": false
+    }
+}

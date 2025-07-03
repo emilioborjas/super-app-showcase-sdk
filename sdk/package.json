@@ -1,0 +1,28 @@
+{
+    "name": "@your-org/super-app-showcase-sdk",
+    "version": "0.0.1",
+    "author": "your-username",
+    "description": "Dependency management & utils for the Super App Showcase",
+    "license": "MIT",
+    "scripts": {
+        "bump": "node ../scripts/release.js bump",
+        "publishPackage": "node ../scripts/release.js publish"
+    },
+    "homepage": "[https://github.com/your-org/super-app-showcase-sdk](https://github.com/your-org/super-app-showcase-sdk)",
+    "repository": {
+        "type": "git",
+        "url": "git+[https://github.com/your-org/super-app-showcase-sdk.git](https://github.com/your-org/super-app-showcase-sdk.git)"
+    },
+    "main": "index.js",
+    "files": [
+        "android",
+        "ios",
+        "lib",
+        "index.js",
+        "preset.js"
+    ],
+    "publishConfig": {
+        "registry": "[https://npm.pkg.github.com/](https://npm.pkg.github.com/)"
+    },
+    "packageManager": "pnpm@9.15.3+sha512.1f79bc245a66eb0b07c5d4d83131240774642caaa86ef7d0434ab47c0d16f66b04e21e0c086eb61e62c77efc4d7f7ec071afad3796af64892fae66509173893a"
+}
