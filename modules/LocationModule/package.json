@@ -1,6 +1,6 @@
 {
     "name": "@emilioborjas/react-native-location",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Location service TurboModule for React Native",
     "author": "your-username",
     "main": "src/index.tsx",
