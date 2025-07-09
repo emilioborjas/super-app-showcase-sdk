@@ -1,31 +1,83 @@
 {
     "react": {
-        "name": "react",
-        "version": "19.0.0"
+      "name": "react",
+      "version": "19.0.0"
     },
     "react-native": {
-        "name": "react-native",
-        "version": "0.78.2"
+      "name": "react-native",
+      "version": "0.78.2"
+    },
+    "@bottom-tabs/react-navigation": {
+      "name": "@bottom-tabs/react-navigation",
+      "version": "0.9.0"
+    },
+    "@react-native-async-storage/async-storage": {
+      "name": "@react-native-async-storage/async-storage",
+      "version": "2.0.0"
     },
     "@react-navigation/native": {
-        "name": "@react-navigation/native",
-        "version": "7.0.14"
+      "name": "@react-navigation/native",
+      "version": "7.0.14"
     },
     "@react-navigation/native-stack": {
-        "name": "@react-navigation/native-stack",
-        "version": "7.2.0"
+      "name": "@react-navigation/native-stack",
+      "version": "7.2.0"
+    },
+    "@react-navigation/material-top-tabs": {
+      "name": "@react-navigation/material-top-tabs",
+      "version": "7.2.13"
+    },
+    "@react-navigation/drawer": {
+      "name": "@react-navigation/drawer",
+      "version": "7.2.0"
+    },
+    "@react-navigation/bottom-tabs": {
+      "name": "@react-navigation/bottom-tabs",
+      "version": "7.2.0"
+    },
+    "react-native-bottom-tabs": {
+      "name": "react-native-bottom-tabs",
+      "version": "0.9.0"
+    },
+    "react-native-paper": {
+      "name": "react-native-paper",
+      "version": "5.12.5"
     },
     "react-native-safe-area-context": {
-        "name": "react-native-safe-area-context",
-        "version": "5.3.0"
+      "name": "react-native-safe-area-context",
+      "version": "5.3.0"
     },
     "react-native-screens": {
-        "name": "react-native-screens",
-        "version": "4.10.0"
+      "name": "react-native-screens",
+      "version": "4.10.0"
+    },
+    "react-native-vector-icons": {
+      "name": "react-native-vector-icons",
+      "version": "10.2.0"
     },
     "@module-federation/enhanced": {
-        "name": "@module-federation/enhanced",
-        "version": "0.11.3",
-        "shared": false
+      "name": "@module-federation/enhanced",
+      "version": "0.11.3",
+      "shared": false
+    },
+    "react-native-edge-to-edge": {
+      "name": "react-native-edge-to-edge",
+      "version": "1.1.3"
+    },
+    "react-native-gesture-handler": {
+      "name": "react-native-gesture-handler",
+      "version": "2.25.0"
+    },
+    "react-native-pager-view": {
+      "name": "react-native-pager-view",
+      "version": "6.7.1"
+    },
+    "@emilioborjas/react-native-location": {
+      "name": "@emilioborjas/react-native-location",
+      "version": "0.0.5"
+    },
+    "react-native-reanimated": {
+      "name": "react-native-reanimated",
+      "version": "3.17.5"
     }
-}
+  }
