@@ -74,7 +74,7 @@
     },
     "@emilioborjas/react-native-location": {
       "name": "@emilioborjas/react-native-location",
-      "version": "0.0.5"
+      "version": "0.0.6"
     },
     "react-native-reanimated": {
       "name": "react-native-reanimated",
