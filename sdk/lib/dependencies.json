@@ -72,9 +72,9 @@
     "name": "react-native-pager-view",
     "version": "6.7.1"
   },
-  "@mrsasuu/react-native-location": {
-    "name": "@mrsasuu/react-native-location",
-    "version": "0.0.5"
+  "@emilioborjas/react-native-location": {
+    "name": "@emilioborjas/react-native-location",
+    "version": "0.0.7"
   },
   "react-native-reanimated": {
     "name": "react-native-reanimated",
